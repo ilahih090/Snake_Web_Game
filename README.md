@@ -14,7 +14,7 @@ Follow these steps to run the game on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ilahih090/my_flask_snake_game.git
+git clone https://github.com/ilahih090/Snake_Web_Game.git
 cd my_flask_snake_game
 ```
 
